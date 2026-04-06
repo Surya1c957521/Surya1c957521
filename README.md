@@ -51,9 +51,9 @@ I'm a passionate fresher with a strong foundation in **Core Java** and a growing
 
 ## 📊 GitHub Stats
 
-![Prateek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Surya1c957521&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)
+![Prateek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prateek-suryawanshi&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Surya1c957521&theme=transparent&hide_border=false&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prateek-suryawanshi&theme=transparent&hide_border=false&layout=compact)
 
 ---
 
