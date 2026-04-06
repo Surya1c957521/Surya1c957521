@@ -1,21 +1,69 @@
-# 💫 About Me:
-👋 Hi, I'm Prateek!<br><br>🎓 A passionate fresher from Bhopal, now based in Bangalore,<br>   on a mission to break into the IT industry.<br><br>🎓 I have completed B.Tech in CSE (AI & ML) from<br>   Lakshmi Narain College of Technology & Science, Bhopal<br><br>🚀 Currently learning Java, SQL, and Web Development<br><br>💻 I love building things — from sleek websites to Java-based<br>   backend logic. I enjoy turning ideas into real projects.<br><br>🛠️ Tech I work with:<br>   • Java | HTML | CSS | JavaScript | Python | SQL<br><br>🌱 Currently leveling up my skills in Java & Backend Development.<br><br>🤝 Open to opportunities, internships & collaborations!<br><br>📍 Bangalore, India
+# 👋 Hi, I'm Prateek Suryawanshi
 
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Prateek Suyawanshi) <br> [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prateek_surya1c) <br> [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/prateek-suryawanshi-41b06225b) <br> [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Prateek_Surya1c9575) <br> [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prateeksurya1c@gmail.com) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Surya1c957521&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Surya1c957521&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Surya1c957521&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Surya1c957521&theme=transparent&no-frame=false&no-bg=false&margin-w=4)
+🎓 B.Tech CSE (AI & ML) Graduate | Lakshmi Narain College of Technology & Science, Bhopal  
+💼 Actively seeking entry-level **Java Backend / Software Developer** roles  
+📍 Based in **Bangalore, India** (Relocated from Bhopal, MP)  
+📧 prateeksurya1c@gmail.com
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Surya1c957521&icon=10&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🙋 About Me
+
+I'm a passionate fresher with a strong foundation in **Core Java** and a growing skillset in **SQL** and **Web Development**. I love turning ideas into working projects and I'm currently focused on building my backend development skills to contribute to real-world software teams.
+
+- 🔭 Currently working on: **Student Record Management System (Java + MySQL)**
+- 🌱 Currently learning: **Java Collections, Exception Handling, JDBC, SQL**
+- 🤝 Open to: **Internships, Entry-level roles, Collaborations**
+- 💬 Ask me about: **Java basics, OOP concepts, HTML/CSS**
+
+---
+
+## 🛠️ Tech Stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📂 Projects
+
+### 🗂️ Student Record Management System
+> Java | MySQL | JDBC | Console Application
+
+- Console-based app to add, update, delete and search student records
+- Connected Java with MySQL using JDBC for real data storage
+- Practiced OOP, Exception Handling, and Scanner input
+
+### 🌐 Personal Portfolio Website
+> HTML | CSS | JavaScript
+
+- Responsive portfolio with About, Skills, Projects & Contact sections
+- Used CSS Flexbox & Grid for mobile-friendly layout
+- Hosted on GitHub Pages
+
+---
+
+## 📊 GitHub Stats
+
+![Prateek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Surya1c957521&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Surya1c957521&theme=transparent&hide_border=false&layout=compact)
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prateek-suryawanshi-41b06225b)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prateeksurya1c@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/prateek_surya1c)
+
+---
+
+*"Every expert was once a beginner. Keep building, keep learning."* 🚀
+    
